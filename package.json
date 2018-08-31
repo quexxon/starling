@@ -1,17 +1,14 @@
 {
-    "name": "engine",
-    "version": "1.0.0",
-    "description": "",
-    "main": "app.bundle.js",
-    "directories": {
-        "lib": "lib"
-    },
+    "name": "starling",
+    "version": "0.1.0",
+    "description": "An invasive UI framework (pronounced: architecture)",
+    "main": "src/main.js",
     "scripts": {
         "build": "rollup -c",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "",
-    "license": "ISC",
+    "author": "Will Clardy <wclardy@kmbs.konicaminolta.us>",
+    "license": "MIT",
     "dependencies": {
         "virtual-dom": "^2.1.1"
     },
