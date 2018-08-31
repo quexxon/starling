@@ -2,6 +2,10 @@
     "name": "starling",
     "version": "0.1.0",
     "description": "An invasive UI framework (pronounced: architecture)",
+    "repository": {
+        "type": "git",
+        "url": "git@dev2.sec.kmbs.us:wclardy/starling.git"
+    },
     "main": "src/main.js",
     "scripts": {
         "build": "rollup -c",
