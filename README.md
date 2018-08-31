@@ -39,7 +39,6 @@ const container = document.getElementById('app');
 starling.createApp(init, update, view).embed(container);
 ```
 
-
 ### `starling.newAction`
 
 Register a new action. This is how you make things happen in Starling. See the
@@ -54,5 +53,5 @@ starling.newAction('SET_INTERVAL', { value: 5 });
 
 ### `starling.h`
 
-Convenienently exposes `virtual-dom/h`. Read its documentation
+Conveniently exposes `virtual-dom/h`. Read its documentation
 [here](https://github.com/Matt-Esch/virtual-dom/blob/master/virtual-hyperscript/README.md).
