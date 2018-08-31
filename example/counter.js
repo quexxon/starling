@@ -93,7 +93,6 @@ const stepInput = (state) => {
 // BOOTSTRAP
 //-------------------------------------------------------------------------------
 
-
 // Use `environment` for external state that you'd like to provide to the
 // application when `init` is called. The `environment` argument to `embed` is
 // optional and is provided here solely as documentation. The default value is

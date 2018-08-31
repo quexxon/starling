@@ -2,7 +2,7 @@
 
 Starling is a set of architectural conventions for building web apps, disguised
 as a framework. It is primarily inspired by [The Elm
-Archicture](https://guide.elm-lang.org/architecture/), but the concepts map
+Architecture](https://guide.elm-lang.org/architecture/), but the concepts map
 fairly directly to an opinionated subset of React. If you squint, Starling is
 like a naive React (plus Redux) without life-cycle methods, component state, or
 JSX.
